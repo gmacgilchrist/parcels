@@ -1,0 +1,7 @@
+# .gitignore
+
+*.nc
+*.pdf
+
+*.ipynb_checkpoints
+
